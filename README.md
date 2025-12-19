@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+### During my DoD career I developed a passion for python which led me to study Data Science at the Wester Governors University. 
 <!--
 **JamesA-usa/JamesA-usa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
