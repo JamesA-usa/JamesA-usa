@@ -1,6 +1,6 @@
-## Hi there 👋
+ ## Hi there 👋
 
-#### During my DoD career I developed a passion for python which led me to study Data Science at the Wester Governors University. In between classes, I study cybersecurity as a hobby where I get a chance to use my data analytics knowledge to automate common cybersecurity steps.
+#### During my DoD career I developed a passion for python which led me to study data science at Western Governors University. In between classes, I study cybersecurity as a hobby where I get a chance to use my data analytics knowledge to automate common cybersecurity tasks. I also like to keep up with my...
 <!--
 **JamesA-usa/JamesA-usa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
