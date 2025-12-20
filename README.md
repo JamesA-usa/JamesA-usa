@@ -4,7 +4,7 @@
 
 ## Data Science Projects
 
-#### Place
+#### https://github.com/JamesA-usa/LoanData-Exploratory-Data-Analysis
 
 ## Section 2
 
