@@ -1,12 +1,12 @@
- ## Hi there 😎
+# Hi there 😎
 
 #### I developed a passion for python while working for DoD which led me to study data science at Western Governors University. In between classes, I study cybersecurity as a hobby where I get a chance to use python to automate common cybersecurity tasks. I also like to keep up with my...
 
-## Data Science Projects
+# Data Science Projects
 
 #### Exploratory Data Analysis Using Load Data - https://github.com/JamesA-usa/LoanData-Exploratory-Data-Analysis
 
-## Cybersecurity Projects
+# Cybersecurity Projects
 
 #### Holder
 <!--
