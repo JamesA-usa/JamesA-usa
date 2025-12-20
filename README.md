@@ -8,9 +8,6 @@
 
 # Cybersecurity Projects
 
-## Vulnerability Manage
-
-- **[Vulnerability Management Program Implementaion]([https://github.com/JamesA-usa/Vulnerability-Management-Program])
 <!--
 **JamesA-usa/JamesA-usa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
