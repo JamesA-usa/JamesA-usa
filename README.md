@@ -7,7 +7,7 @@
 #### Exploratory Data Analysis Using Load Data - https://github.com/JamesA-usa/LoanData-Exploratory-Data-Analysis
 
 # Cybersecurity Projects
-## Vulnerability Management Projects
+- ## Vulnerability Management Projects
 **[Vulnerability Management Program Implementation](https://github.com/JamesA-usa/Vulnerability-Management-Program)**
 
 <!--
