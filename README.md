@@ -4,7 +4,9 @@
 
 ## Data Science Projects
 
-#### https://github.com/JamesA-usa/LoanData-Exploratory-Data-Analysis
+#### Exploratory Data Analysis Using Load Data
+
+https://github.com/JamesA-usa/LoanData-Exploratory-Data-Analysis
 
 ## Section 2
 
