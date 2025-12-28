@@ -5,6 +5,7 @@
 # Data Science Projects
 
 #### **[Exploratory Data Analysis Using Loan Data](https://github.com/JamesA-usa/LoanData-Exploratory-Data-Analysis)**
+#### **[Machine Learning With Stack Overflow Data](https://github.com/JamesA-usa/Machine-Learning-Project)**
 
 # Cybersecurity Projects
 - ## Vulnerability Management Projects
