@@ -12,7 +12,7 @@
   - **[Vulnerability Management Program Implementation](https://github.com/JamesA-usa/Vulnerability-Management-Program)**
  
 - ## Security Operations and Incident Response Projects
-  - **[Threat Hunting Scenario (Tor Browser Usage]
+  - **[Threat Hunting Scenario (Tor Browser Usage](https://github.com/JamesA-usa/threat-hunting-scenario-tor)**
 
 # Geospatial Projects
 
