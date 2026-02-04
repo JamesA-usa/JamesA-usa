@@ -10,6 +10,9 @@
 # Cybersecurity Projects
 - ## Vulnerability Management Projects
   - **[Vulnerability Management Program Implementation](https://github.com/JamesA-usa/Vulnerability-Management-Program)**
+ 
+- ## Vulnerability Management Projects
+  - **[Threat Hunting Detection Use Case]
 
 # Geospatial Projects
 
