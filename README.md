@@ -11,7 +11,7 @@
 - ## Vulnerability Management Projects
   - **[Vulnerability Management Program Implementation](https://github.com/JamesA-usa/Vulnerability-Management-Program)**
  
-- ## Vulnerability Management Projects
+- ## Security Operations and Incident Response Projects
   - **[Threat Hunting Detection Use Case]
 
 # Geospatial Projects
