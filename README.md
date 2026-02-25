@@ -14,6 +14,8 @@
  
 - ## Security Operations and Incident Response Projects
   - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JamesA-usa/threat-hunting-scenario-tor)**
+  - **[Threat Hunting Scenario (Multi-Stage Intrusion)](https://github.com/JamesA-usa/threat-hunting-multi-stage-intrusion)**
+ 
 ---
 
 # Geospatial Projects
