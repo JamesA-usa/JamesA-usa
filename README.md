@@ -1,6 +1,6 @@
 # Hi there 😎
 
-#### I developed a passion for python which led me to study data science at Western Governors University. In between classes, I study cybersecurity as a hobby where I get a chance to use python to automate common cybersecurity tasks. I also like to keep up with my...
+#### I developed a passion for python which led me to study data science at Western Governors University. In between classes, I study cybersecurity as a hobby where I get a chance to use python to automate common cybersecurity tasks. I also like to keep up with my remote sensing skills.
 
 # Data Science Projects
 
