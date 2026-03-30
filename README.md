@@ -11,6 +11,7 @@
 # Cybersecurity Projects
 - ## Vulnerability Management Projects
   - **[Vulnerability Management Program Implementation](https://github.com/JamesA-usa/Vulnerability-Management-Program)**
+  - **[Windows & Firefox Vulnerability Scan](https://github.com/JamesA-usa/Windows-Firefox-Vulnerability-Check)**
  
 - ## Security Operations and Incident Response Projects
   - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JamesA-usa/threat-hunting-scenario-tor)**
