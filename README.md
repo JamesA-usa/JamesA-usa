@@ -12,6 +12,7 @@
 - ## Vulnerability Management Projects
   - **[Vulnerability Management Program Implementation](https://github.com/JamesA-usa/Vulnerability-Management-Program)**
   - **[Windows 11 & Firefox Vulnerability Scan](https://github.com/JamesA-usa/Windows-Firefox-Vulnerability-Check)**
+  - **[Windows 11 & Chrome Vulnerability Scan]( https://github.com/JamesA-usa/Windows-Chrome-Vulnerability-Scan)**
   - **[Windows 11 & Microsoft Edge Vulnerability Scan](https://github.com/JamesA-usa/Windows-Edge-Vulnerability-Scan)**
  
 - ## Security Operations and Incident Response Projects
