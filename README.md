@@ -11,6 +11,7 @@
 # Cybersecurity Projects
 - ## Vulnerability Management Projects
   - **[Vulnerability Management Program Implementation](https://github.com/JamesA-usa/Vulnerability-Management-Program)**
+  - **[AlmaLinux 9 Vulnerability Remediation](https://github.com/JamesA-usa/AlmaLinux9-Vulnerability-Remediation)**
   - **[Windows 11 & Firefox Vulnerability Remediation](https://github.com/JamesA-usa/Windows-Firefox-Vulnerability-Check)**
   - **[Windows Server Vulnerability Remediation](https://github.com/JamesA-usa/Windows-Server-Vulnerability-Remediation)**
   - **[Windows 11 & Chrome Vulnerability Remediation]( https://github.com/JamesA-usa/Windows-Chrome-Vulnerability-Scan)**
