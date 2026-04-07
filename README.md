@@ -13,6 +13,7 @@
   - **[Vulnerability Management Program Implementation](https://github.com/JamesA-usa/Vulnerability-Management-Program)**
   - **[AlmaLinux 9 Vulnerability Remediation](https://github.com/JamesA-usa/AlmaLinux9-Vulnerability-Remediation)**
   - **[Windows 11 & Firefox Vulnerability Remediation](https://github.com/JamesA-usa/Windows-Firefox-Vulnerability-Check)**
+  - **[Ubuntu 24.04 Vulnerability Remediation](https://github.com/JamesA-usa/Ubuntu-Vulnerability-Remediation-Report)** 
   - **[Windows Server Vulnerability Remediation](https://github.com/JamesA-usa/Windows-Server-Vulnerability-Remediation)**
   - **[Windows 11 & Chrome Vulnerability Remediation]( https://github.com/JamesA-usa/Windows-Chrome-Vulnerability-Scan)**
   - **[Windows 11 & Microsoft Edge Vulnerability Remediation](https://github.com/JamesA-usa/Windows-Edge-Vulnerability-Scan)**
