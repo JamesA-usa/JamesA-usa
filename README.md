@@ -11,12 +11,12 @@
 # Cybersecurity Projects
 - ## Vulnerability Management Projects
   - **[Vulnerability Management Program Implementation](https://github.com/JamesA-usa/Vulnerability-Management-Program)**
+  - **[Windows 11 & Virtual Machine Vulnerability Remediation](https://github.com/JamesA-usa/Windows-11-Virtual-Machine-Vulnerability-Remediation)**
   - **[AlmaLinux 9 Vulnerability Remediation](https://github.com/JamesA-usa/AlmaLinux9-Vulnerability-Remediation)**
   - **[Windows 11 & Firefox Vulnerability Remediation](https://github.com/JamesA-usa/Windows-Firefox-Vulnerability-Check)**
   - **[Ubuntu 24.04 Vulnerability Remediation](https://github.com/JamesA-usa/Ubuntu-Vulnerability-Remediation-Report)** 
   - **[Windows Server Vulnerability Remediation](https://github.com/JamesA-usa/Windows-Server-Vulnerability-Remediation)**
   - **[Windows 11 & Chrome Vulnerability Remediation]( https://github.com/JamesA-usa/Windows-Chrome-Vulnerability-Scan)**
-  - **[Windows 11 & Virtual Machine Vulnerability Remediation](https://github.com/JamesA-usa/Windows-11-Virtual-Machine-Vulnerability-Remediation)**
  
 - ## Security Operations and Incident Response Projects
   - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JamesA-usa/threat-hunting-scenario-tor)**
