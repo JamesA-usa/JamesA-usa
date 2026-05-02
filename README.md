@@ -27,7 +27,7 @@
 ---
 
 # Geospatial Projects
-  - **[Property Analysis](https://github.com/JamesA-usa/Property-Analysis)**
+- **[Property Analysis](https://github.com/JamesA-usa/Property-Analysis)**
 
 <!--
 **JamesA-usa/JamesA-usa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
