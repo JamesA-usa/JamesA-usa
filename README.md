@@ -28,6 +28,8 @@
 
 # Geospatial Projects
 - **[Property Analysis](https://github.com/JamesA-usa/Property-Analysis)**
+- **[Investment Firm Site Selection](https://github.com/JamesA-usa/Site-Selection-Firm)**
+
 
 <!--
 **JamesA-usa/JamesA-usa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
