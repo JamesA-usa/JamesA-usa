@@ -30,6 +30,7 @@
 - **[Property Analysis](https://github.com/JamesA-usa/Property-Analysis)**
 - **[Investment Firm Site Selection](https://github.com/JamesA-usa/Site-Selection-Firm)**
 - **[New Orleans Study](https://github.com/JamesA-usa/New-Orleans-Study)**
+- **[Earthquake Relief Operations](https://github.com/JamesA-usa/Afghanistan-Relief-Operations)**
 - **[Geospatial Data Product Comparison](https://github.com/JamesA-usa/vector-raster)**
 
 
